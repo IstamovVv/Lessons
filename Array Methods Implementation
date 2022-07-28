@@ -1,4 +1,4 @@
-```js
+``` JavaScript
 Array.prototype.forEach2 = function(func) {
   for (let i = 0; i < this.length; i++) {
     func(this[i], i, this)
