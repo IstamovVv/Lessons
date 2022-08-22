@@ -1,0 +1,7 @@
+* {
+  font-family: "Comic Sans MS", "sans-serif";
+}
+
+#app .v-application {
+  background-image: url("src/assets/images/gradient.jpg")
+}
